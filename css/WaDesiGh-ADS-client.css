@@ -1,6 +1,39 @@
 .webanner-div {
 position: relative;
 }
+.wadesigh-button {
+    position: absolute;
+    border-radius: 2px;
+    bottom: 25px;
+    height: 35px;
+    max-width: 126px;
+	width: 50%;
+    background-color: rgb(67, 133, 244);
+	display: flex;
+	margin: 0 auto;
+  left: 0;
+  right: 0;
+}
+.wadesigh-button-client {
+    position: absolute;
+    border-radius: 2px;
+    height: 250px;
+    max-width: 300px;
+	width: 100%;
+	display: flex;
+	margin: 0 auto;
+  left: 0;
+  right: 0;
+}
+  
+  p.wadesigh-webanner-button, p.webanner-side-button {
+    width: 300px;
+    height: 20px;
+    left: 0px;
+    top: 10px;
+	position: absolute;
+	
+}
 .webanner-wrap, .webanner-side-wrap {
 	position: relative;
     overflow: hidden;
